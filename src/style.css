@@ -33,6 +33,7 @@ button {
   }
 
   html, body {
+    margin: 0 auto;
     height: 100%;
     padding-top: 30px;
     background-color: #EBC186;
